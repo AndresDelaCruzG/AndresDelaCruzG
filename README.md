@@ -1,7 +1,6 @@
 ### Hi there, I'm Andres 👋
 
-- 👀 I’m interested in Web and Mobile Development
-- 🌱 I’m currently learning Swift
+- 🌱 Im a iOS Software Developer with 2 years of experiencie
 - 📫 How to reach me - andresdelacruzg06@gmail.com 
 
 ### Connect with me:
